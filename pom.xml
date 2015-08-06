@@ -13,10 +13,10 @@
    </properties>
    <scm>
     <connection>
-      scm:git:ssh//github.com:endreferencz/mvn-test.git
+      scm:git:github.com:endreferencz/mvn-test.git
     </connection>
     <developerConnection>
-      scm:git:ssh//github.com:endreferencz/mvn-test.git 
+      scm:git:github.com:endreferencz/mvn-test.git 
     </developerConnection>
     <url>https://github.com/endreferencz/mvn-test</url>
   </scm>
